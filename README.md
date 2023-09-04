@@ -21,7 +21,7 @@ This is my approach to this challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://github.com/Hope-Akpan1/Order-summary-card-/tree/main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
