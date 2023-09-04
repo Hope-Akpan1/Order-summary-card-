@@ -25,7 +25,7 @@ This is my approach to this challenge.
 - Live Site URL:(https://hope-akpan1.github.io/Order-summary-card-/)
 
 ## My process
-I used my phone to code.
+I use my phone to code.
 
 ### Built with
 
