@@ -22,7 +22,7 @@ This is my approach to this challenge.
 ### Links
 
 - Solution URL:(https://github.com/Hope-Akpan1/Order-summary-card-/tree/main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://hope-akpan1.github.io/Order-summary-card-/)
 
 ## My process
 I used my phone to code.
