@@ -16,6 +16,7 @@ body {
   align-items: center;
   height: 100vh;
   font-family: 'Red Hat Display', sans-serif;
+  background-color: hsl(225, 100%, 95%);
 }
 
 img {
@@ -116,7 +117,8 @@ main {
 
 @media screen and (min-width: 370px) {
   body {
-    background-image: url('pattern-background-desktop.svg')
+    background-image: url('pattern-background-desktop.svg');
+    background-color: hsl(225, 100%, 95%);
   }
   
   main{
